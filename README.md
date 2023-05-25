@@ -1,1 +1,1 @@
-# scissorspaper
+# scissorspapergame
